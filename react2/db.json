@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "title": "MacBook Pro",
+      "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 83,
+      "brand": "Apple",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "image": "https://cdn.dummyjson.com/product-images/6/1.png"
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy Book",
+      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 50,
+      "brand": "Samsung",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/product-images/7/1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Microsoft Surface Laptop 4",
+      "description": "Style and speed. Stand out on HD video calls backed by Studio Mics.",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 68,
+      "brand": "Microsoft Surface",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/product-images/8/1.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Infinix new product",
+      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+      "price": "1099222",
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 96,
+      "brand": "Infinix",
+      "category": "laptops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+      "image": "https://cdn.dummyjson.com/product-images/9/1.jpg"
+    }
+  ]
+}
